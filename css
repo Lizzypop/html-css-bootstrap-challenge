@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    font-family: ProximaNova,sans-serif;
+    font-style: italic;
+    background-image: url(Tinder-logo.jpg)
+}
+
+#content
+{ 
+    text-align: center;   
+    
+}
+
+#header
+{
+    text-transform: uppercase;
+    
+}
+
+#facebook span
+{
+    width: 20rem;
+    background-color: #3b5998;
+}
+
+#phone input
+{
+    width:20rem; 
+    border-radius: 5px; 
+    text-align: center; 
+    font-size: 12px; 
+    font-style: italic;
+}
+
+#footer img
+{
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+    justify-content: center;
+    margin: 20Px;
+    padding: 10px 50px;
+    border: 1px solid darkgrey;
+    border-radius: 30px;
+}
+
